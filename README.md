@@ -9,8 +9,9 @@ You'll be presented with a challenging real-world scenario: a legacy asset inven
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Getting Familiar with a Legacy Asset Inventory](./legacy-asset-inventory/README.md)
+- [Collecting and Reconciling Updated Asset Data](./collecting-and-reconciling/README.md/README.md)
+- [Finalizing the Updated Inventory](./finalizing-the-inventory/README.md)
 
 ## Internal
 
