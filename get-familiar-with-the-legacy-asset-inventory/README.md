@@ -1,9 +1,9 @@
 <h1>
   <span class="headline">Asset Inventory Lab</span>
-  <span class="subhead">Getting Familiar with a Legacy Asset Inventory</span>
+  <span class="subhead">Get Familiar With the Legacy Asset Inventory</span>
 </h1>
 
-## Getting Familiar with a Legacy Asset Inventory
+## Explore an existing inventory document
 
 ### Scenario
 
@@ -11,7 +11,7 @@ You've just joined the IT department of General Corporation, a mid-sized manufac
 
 Your manager has tasked you with reconciling this legacy inventory with fresh data collected by your team. You'll need to identify the issues in the current inventory, integrate the new data, and create an updated, accurate record of all the company's IT assets.
 
-### Exercise Steps
+### Exercise steps
 
 1. Open the provided [General_Legacy_Inventory.xlsx](../General_Legacy_Inventory.xlsx) file. This spreadsheet contains the company's current asset inventory.
 

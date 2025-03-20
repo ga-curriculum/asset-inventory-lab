@@ -7,7 +7,7 @@
 
 It's time to put the finishing touches on your updated inventory and prepare a final report for your manager. This report will summarize the work you've done, highlight the key improvements in the inventory, and provide recommendations for maintaining accurate asset data going forward.
 
-### Exercise Steps
+### Exercise steps
 
 1. Start by carefully reviewing your updated [General_Legacy_Inventory.xlsx](../General_Legacy_Inventory.xlsx) file:
 

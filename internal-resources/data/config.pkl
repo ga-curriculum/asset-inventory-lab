@@ -20,22 +20,22 @@ repo {
 
 courses {
   new {
+    name = "itb"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.getFamiliarWithTheLegacyAssetInventory
+      mls.collectAndReconcileTheUpdatedAssetData
+      mls.finalizeTheInventory
+    }
+  }
+  new {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.legacyAssetInventory
-      mls.collectingAndReconciling
-      mls.finalizingTheInventory
-    }
-  }
-    new {
-    name = "itb"
-    microlessons {
-      // Add microlessons here, in the order they should be delivered
-      mls.legacyAssetInventory
-      mls.collectingAndReconciling
-      mls.finalizingTheInventory
+      mls.getFamiliarWithTheLegacyAssetInventory
+      mls.collectAndReconcileTheUpdatedAssetData
+      mls.finalizeTheInventory
     }
   }
 }

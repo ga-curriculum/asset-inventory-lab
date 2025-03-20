@@ -14,14 +14,14 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Getting Familiar with a Legacy Asset Inventory",
-          "dirName": "legacy-asset-inventory",
+          "friendlyName": "Get Familiar With the Legacy Asset Inventory",
+          "dirName": "get-familiar-with-the-legacy-asset-inventory",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -30,8 +30,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Collecting and Reconciling Updated Asset Data",
-          "dirName": "collecting-and-reconciling",
+          "friendlyName": "Collect and Reconcile the Updated Asset Data",
+          "dirName": "collect-and-reconcile-the-updated-asset-data",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -40,8 +40,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Finalizing the Updated Inventory",
-          "dirName": "finalizing-the-inventory",
+          "friendlyName": "Finalize the Updated Inventory",
+          "dirName": "finalize-the-inventory",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -73,14 +73,14 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "itb",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Getting Familiar with a Legacy Asset Inventory",
-          "dirName": "legacy-asset-inventory",
+          "friendlyName": "Get Familiar With the Legacy Asset Inventory",
+          "dirName": "get-familiar-with-the-legacy-asset-inventory",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -89,8 +89,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Collecting and Reconciling Updated Asset Data",
-          "dirName": "collecting-and-reconciling",
+          "friendlyName": "Collect and Reconcile the Updated Asset Data",
+          "dirName": "collect-and-reconcile-the-updated-asset-data",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -99,8 +99,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Finalizing the Updated Inventory",
-          "dirName": "finalizing-the-inventory",
+          "friendlyName": "Finalize the Updated Inventory",
+          "dirName": "finalize-the-inventory",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

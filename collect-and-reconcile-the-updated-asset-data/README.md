@@ -8,7 +8,7 @@
 Now that you've identified the issues in General Corporation's legacy asset inventory, it's time to start the reconciliation process. Your team has conducted a thorough audit of the company's current IT assets and compiled the data in a new spreadsheet, [General_Updated_Data.xlsx](../General_Updated_Data.xlsx).
 Your task is to integrate this new data into the legacy inventory. You'll need to match the new records with the existing ones, update outdated information, fill in missing data, and resolve any conflicts or inconsistencies.
 
-### Exercise Steps
+### Exercise steps
 
 Open both the [General_Legacy_Inventory.xlsx](../General_Legacy_Inventory.xlsx) and [General_Updated_Data.xlsx](../General_Updated_Data.xlsx) files.
 Start by matching the assets in the new data file with those in the legacy inventory. You can use unique identifiers like asset IDs or serial numbers to ensure you're updating the correct records.

@@ -2,23 +2,23 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-legacyAssetInventory = new Template.Microlesson {
-  friendlyName = "Getting Familiar with a Legacy Asset Inventory"
-  dirName = "legacy-asset-inventory"
+getFamiliarWithTheLegacyAssetInventory = new Template.Microlesson {
+  friendlyName = "Get Familiar With the Legacy Asset Inventory"
+  dirName = "get-familiar-with-the-legacy-asset-inventory"
   type = "Content"
   videoUrl = ""
 }
 
-collectingAndReconciling = new Template.Microlesson {
-  friendlyName = "Collecting and Reconciling Updated Asset Data"
-  dirName = "collecting-and-reconciling"
+collectAndReconcileTheUpdatedAssetData = new Template.Microlesson {
+  friendlyName = "Collect and Reconcile the Updated Asset Data"
+  dirName = "collect-and-reconcile-the-updated-asset-data"
   type = "Content"
   videoUrl = ""
 }
 
-finalizingTheInventory = new Template.Microlesson {
-  friendlyName = "Finalizing the Updated Inventory"
-  dirName = "finalizing-the-inventory"
+finalizeTheInventory = new Template.Microlesson {
+  friendlyName = "Finalize the Updated Inventory"
+  dirName = "finalize-the-inventory"
   type = "Content"
   videoUrl = ""
 }
