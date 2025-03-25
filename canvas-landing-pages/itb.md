@@ -7,6 +7,8 @@
 
 In this lab you're presented with a real-world scenario: a legacy asset inventory is outdated and inconsistent and must be updated. Your mission will be to reconcile this inventory with newly collected data, ensure all assets (both tangible and intangible) are properly accounted for, and deliver an updated, accurate inventory.
 
+Through this exercise, you'll gain practical experience in data reconciliation and updating complex datasets. You'll learn to identify matches between datasets, investigate and resolve data conflicts, and document your update process. These are critical skills for maintaining accurate and reliable asset inventories.
+
 ## Content
 
 - [Get Familiar With the Legacy Asset Inventory](../get-familiar-with-the-legacy-asset-inventory/README.md)
