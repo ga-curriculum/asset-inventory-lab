@@ -1,7 +1,9 @@
 <h1>
   <span class="headline">Asset Inventory Lab</span>
-  <span class="subhead">Collecting and Reconciling Updated Asset Data</span>
+  <span class="subhead">Collect and Reconcile the Updated Asset Data</span>
 </h1>
+
+**Learning objective:** By the end of this exercise, students will be able to analyze a legacy asset inventory and reconcile it against newly collected data, ensuring all assets are properly accounted for and any discrepancies are resolved.
 
 ## Scenario
 

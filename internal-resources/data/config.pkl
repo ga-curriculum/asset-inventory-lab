@@ -25,7 +25,7 @@ courses {
       // Add microlessons here, in the order they should be delivered
       mls.getFamiliarWithTheLegacyAssetInventory
       mls.collectAndReconcileTheUpdatedAssetData
-      mls.finalizeTheInventory
+      mls.finalizeTheUpdatedInventory
     }
   }
   new {
@@ -35,7 +35,7 @@ courses {
       // Add microlessons here, in the order they should be delivered
       mls.getFamiliarWithTheLegacyAssetInventory
       mls.collectAndReconcileTheUpdatedAssetData
-      mls.finalizeTheInventory
+      mls.finalizeTheUpdatedInventory
     }
   }
 }

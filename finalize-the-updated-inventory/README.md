@@ -1,7 +1,9 @@
 <h1>
   <span class="headline">Asset Inventory Lab</span>
-  <span class="subhead">Finalizing the Updated Inventory</span>
+  <span class="subhead">Finalize the Updated Inventory</span>
 </h1>
+
+**Learning objective:** By the end of this exercise, students will be able to prepare a final report summarizing an inventory update process, including methodology, results, and recommendations for maintaining accurate asset data.
 
 ## Scenario
 

@@ -41,7 +41,7 @@
         },
         {
           "friendlyName": "Finalize the Updated Inventory",
-          "dirName": "finalize-the-inventory",
+          "dirName": "finalize-the-updated-inventory",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -100,7 +100,7 @@
         },
         {
           "friendlyName": "Finalize the Updated Inventory",
-          "dirName": "finalize-the-inventory",
+          "dirName": "finalize-the-updated-inventory",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

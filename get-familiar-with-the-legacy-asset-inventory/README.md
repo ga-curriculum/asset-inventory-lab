@@ -3,6 +3,8 @@
   <span class="subhead">Get Familiar With the Legacy Asset Inventory</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to identify and document issues in an existing asset inventory spreadsheet.
+
 ## Explore an existing inventory document
 
 ### Scenario

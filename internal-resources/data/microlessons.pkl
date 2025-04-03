@@ -16,9 +16,9 @@ collectAndReconcileTheUpdatedAssetData = new Template.Microlesson {
   videoUrl = ""
 }
 
-finalizeTheInventory = new Template.Microlesson {
+finalizeTheUpdatedInventory = new Template.Microlesson {
   friendlyName = "Finalize the Updated Inventory"
-  dirName = "finalize-the-inventory"
+  dirName = "finalize-the-updated-inventory"
   type = "Content"
   videoUrl = ""
 }
